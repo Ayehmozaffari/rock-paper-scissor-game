@@ -68,7 +68,7 @@ button[data-option]:hover{
     background-color: #fff;
 }
 .pc-choice{
-    background-color: yellow;
+    background-color: rgb(251, 251, 93);
 }
 .draw-color{
     background-image: linear-gradient(-43deg, white 50%, yellow 50%);
