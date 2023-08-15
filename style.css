@@ -9,7 +9,7 @@ html{
 }
 body{
     height: 100vh;
-    background-color: darkslateblue;
+    background:linear-gradient(70deg,rgb(140, 72, 249),rgb(211, 120, 239));
 }
 .results{
     display: flex;
